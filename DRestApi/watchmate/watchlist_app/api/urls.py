@@ -1,4 +1,3 @@
-
 from django.urls import path, include
 from rest_framework.routers import DefaultRouter
 # from watchlist_app.api.views import movie_list, movie_details
